@@ -14,7 +14,7 @@ Download the following files to help you get started:
 
 [KaseiCoin.sol](./KaseiCoin.sol)
 
-[KaseiCoinCrowdsale.sol](./KaseiCoinCrowdsale.com)
+[KaseiCoinCrowdsale.sol](./KaseiCoinCrowdsale.sol)
 
 ## Instructions
 
@@ -39,8 +39,6 @@ In the subsections, you’ll create a fungible token that’s ERC-20 compliant. 
 The crowdsale contract that you create will manage the entire crowdsale process. This process will allow users to send ether to the contract and receive KaseiCoin tokens, or **KAI**, in return. Your contract will automatically mint the tokens and distribute them to a buyer in one transaction.
 
 Note that you’ll record a short video or animated GIF or take several screenshots that show the deployed contract in action.
-
-In the `README.md` file of your GitHub repository for this homework assignment, you’ll create a section named Evaluation Evidence. In this section, you’ll share screenshots of your work from each subsection of the assignment.
 
 ### Evaluation Evidence
 First, compliling the KaseiCoin contract
