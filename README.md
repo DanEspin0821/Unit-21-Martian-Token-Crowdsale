@@ -46,6 +46,7 @@ First, compliling the KaseiCoin contract
 
 Second, compliling the KaseiCoin Crowdsale contract
 ![alt=""](Images/contract deployer.JPG)
+
 ![alt=""](Images/sale_compile.JPG)
 
 Third, compliling the KaseiCoin Deployer contract
