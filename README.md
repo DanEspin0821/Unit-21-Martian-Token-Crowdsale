@@ -41,11 +41,11 @@ The crowdsale contract that you create will manage the entire crowdsale process.
 Note that you’ll record a short video or animated GIF or take several screenshots that show the deployed contract in action.
 
 ### Evaluation Evidence
-First, compliling the KaseiCoin contract
+First, compliling the KaseiCoin contract.
 ![alt=""](Images/coin_compile.JPG)
 
 Second, compliling the KaseiCoin Crowdsale contract.
-![alt=""](Images/contract deployer.JPG)
+![alt=""](https://github.com/DanEspin0821/Unit-21-Martian-Token-Crowdsale/blob/main/Images/contract%20deployer.JPG)
 
 Third, compliling the KaseiCoin Deployer contract.
 ![alt=""](Images/deloyer_compile.JPG)
