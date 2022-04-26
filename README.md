@@ -62,5 +62,5 @@ Sixth, the KaseiCoinCrowdsale contract is used for buying new tokens.
 Seventh, purchasing from the new contract, and confirming the wei raised.
 ![alt=""](Images/successful_purchase.JPG)
 
-Eigth, checking the balance of the account coin is purchased in.
+Eighth, checking the balance of the account coin is purchased in.
 ![alt=""](Images/successful_purchase.JPG)
