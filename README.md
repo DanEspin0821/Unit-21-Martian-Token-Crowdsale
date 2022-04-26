@@ -44,18 +44,18 @@ Note that you’ll record a short video or animated GIF or take several screensh
 First, compliling the KaseiCoin contract
 ![alt=""](Images/coin_compile.JPG)
 
-Second, compliling the KaseiCoin Crowdsale contract
-![alt=""](Images/contract deployer.JPG)
+Second, compliling the KaseiCoin Crowdsale contract.
+![alt=""](Images/contract deployer.JPG)<br>
 
 ![alt=""](Images/sale_compile.JPG)
 
-Third, compliling the KaseiCoin Deployer contract
+Third, compliling the KaseiCoin Deployer contract.
 ![alt=""](Images/deloyer_compile.JPG)
 
 Fourth, with the token creation, the kasei_crowdsale_address and kasei_token_address can be obtained.
 ![alt=""](Images/deploy_coin_success.JPG)
 
-Fifth, the KaseiCoin contract can be loaded by selecting the KaseiCoin contract and loading the contract address
+Fifth, the KaseiCoin contract can be loaded by selecting the KaseiCoin contract and loading the contract address.
 ![alt=""](Images/deploy_coin_success2.JPG)
 
 Sixth, the KaseiCoinCrowdsale contract is used for buying new tokens.
